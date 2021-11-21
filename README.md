@@ -7,8 +7,8 @@ And I want to acquire developing Web aplication through the experience.
 I want to develop this aplication gradually with applied technologys. 
 
 ## Reference books
-1. [花谷　拓磨 著　Nuxt.js ビギナーズガイド　C&R研究所　2018年](https://nuxt-beginners-guide.elevenback.jp/)
-1. [mio 著 基礎から学ぶVue.js 改訂２版　C&R研究所 2020年](https://cr-vue.mio3io.com/)
+1. [花谷　拓磨 著　「Nuxt.js ビギナーズガイド」　C&R研究所　2018年](https://nuxt-beginners-guide.elevenback.jp/)
+1. [mio 著　「基礎から学ぶVue.js 改訂２版」　C&R研究所 2020年](https://cr-vue.mio3io.com/)
 
 
 ## Build Setup
